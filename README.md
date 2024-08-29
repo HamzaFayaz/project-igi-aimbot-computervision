@@ -53,9 +53,10 @@ Check the generated video output (result_test.mp4) to review the model's perform
 ## Advancements
 TensorRT Integration: TensorRT is used to optimize inference on the GPU, providing improved FPS and performance. This integration is planned for enhancing real-time processing capabilities.
 
-## Reinforcement Learning Model: A reinforcement learning model has been trained to aim and fire at enemies. This model represents an initial step towards more sophisticated AI controls for the game.
+
 
 ## Future Development
+## Reinforcement Learning Model: A reinforcement learning model well be trained to aim and fire at enemies. This model represents an initial step towards more sophisticated AI controls for the game.
 Game Control with AI: Plans are underway to develop a comprehensive AI system to control the overall game. This includes managing game dynamics and strategic decisions through AI algorithms.
 
 
