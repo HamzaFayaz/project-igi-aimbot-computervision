@@ -1,4 +1,4 @@
-# Project IGI Game
+# Project IGI Game - AimBot
 YOLO v10 ByteTrack Tkinter OpenCV
 
 
@@ -168,5 +168,6 @@ Project IGI Game/
 ## ⚠️ Disclaimer
 
 This project is for educational and research purposes only. Users are responsible for ensuring compliance with applicable laws, game terms of service, and ethical guidelines. The developers are not responsible for any misuse of this software.
+
 
 
