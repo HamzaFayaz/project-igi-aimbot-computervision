@@ -20,13 +20,16 @@ An advanced AI-powered aimbot system built with modular architecture for real-ti
 > **💡 Special Note**: This project features a **personally curated dataset** where every single image was manually collected, annotated, and preprocessed by hand. The training data was meticulously gathered image by image to ensure the highest quality and most accurate detection for the specific use case. This personal touch ensures superior model performance compared to generic datasets.
 
 ## 🎬 Demo & Screenshots
-**Live Demo Video**
-[![Project IGI Game Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-*Click to watch the full demo video showcasing real-time detection and aimbot functionality*
 
-**UI Screenshot**
-![Project IGI Game Interface](Game Project\UI Image\UI image.PNG)
-*Clean, professional Tkinter interface with real-time controls, detection status, and configurable settings*
+**Demo 1**  
+[![Watch the demo]
+
+**Demo 2**  
+[![Watch the demo](https://img.shields.io/badge/▶-Play%20Demo%202-blue)](https://github.com/user-attachments/assets/YOUR_VIDEO_LINK_2)
+
+**UI Screenshot**  
+<img src="https://github.com/user-attachments/assets/7afba2ae-a4ab-475a-9ede-debd6c73fe96" alt="UI image" width="599" height="530" />
+
 
 
 ## 🚀 Key Features
@@ -184,4 +187,5 @@ SOFTWARE.
 **Author**: [HamzaFayaz](https://github.com/HamzaFayaz)
 
 ## ⚠️ Disclaimer
+
 This project is for educational and research purposes only. Users are responsible for ensuring compliance with applicable laws, game terms of service, and ethical guidelines. The developers are not responsible for any misuse of this software.
