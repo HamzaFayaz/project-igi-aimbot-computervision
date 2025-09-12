@@ -17,7 +17,8 @@ An advanced AI-powered aimbot system built with modular architecture for real-ti
 - 🛡️ **Thread-Safe Design**: Robust error handling and thread-safe operations for stability.
 - 🎯 **Enemy-Focused**: Specialized targeting for enemy objects with distance-based prioritization.
 
-> **💡 Special Note**: This project features a **personally curated dataset** where every single image was manually collected, annotated, and preprocessed by hand. The training data was meticulously gathered image by image to ensure the highest quality and most accurate detection for the specific use case. This personal touch ensures superior model performance compared to generic datasets.
+> ## **💡 Special Note**:
+This project uses a fully custom dataset that I built entirely from scratch. Every single image was individually collected, annotated, and preprocessed by hand — no pre-made datasets were used. By curating the dataset image by image, I ensured maximum relevance, precision, and quality, which leads to superior model performance compared to relying on generic datasets.
 
 ## 🎬 Demo & Screenshots
 
@@ -172,6 +173,7 @@ Project IGI Game/
 ## ⚠️ Disclaimer
 
 This project is for educational and research purposes only. Users are responsible for ensuring compliance with applicable laws, game terms of service, and ethical guidelines. The developers are not responsible for any misuse of this software.
+
 
 
 
