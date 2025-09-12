@@ -6,26 +6,28 @@ YOLO v10 ByteTrack Tkinter OpenCV
 An advanced AI-powered aimbot system built with modular architecture for real-time object detection, intelligent tracking, and automated targeting. The project leverages YOLO v10 for high-performance object detection, ByteTrack for smooth multi-object tracking, and a professional GUI interface for seamless control and monitoring.
 
 ## What Makes It Special:
-🎯 **Real-Time Detection**: Ultra-fast YOLO v10 object detection with CUDA acceleration for maximum performance.
-🔄 **Intelligent Tracking**: ByteTrack algorithm provides smooth, consistent object tracking across frames.
-🎮 **Professional GUI**: Clean Tkinter interface with real-time controls and status monitoring.
-⚡ **High Performance**: Optimized for 60+ FPS detection without video preview overhead.
-🎛️ **Configurable Settings**: Adjustable detection threshold, aim smoothing, and mouse sensitivity.
-🔧 **Modular Architecture**: Clean separation between detection logic, UI components, and main application.
-🖱️ **Precise Targeting**: Advanced aiming algorithms with smoothing and sensitivity controls.
-📊 **Live Monitoring**: Real-time FPS, shot count, and target detection statistics.
-🛡️ **Thread-Safe Design**: Robust error handling and thread-safe operations for stability.
-🎯 **Enemy-Focused**: Specialized targeting for enemy objects with distance-based prioritization.
+-🎯 **Real-Time Detection**: Ultra-fast YOLO v10 object detection with CUDA acceleration for maximum performance.
+-🔄 **Intelligent Tracking**: ByteTrack algorithm provides smooth, consistent object tracking across frames.
+-🎮 **Professional GUI**: Clean Tkinter interface with real-time controls and status monitoring.
+-⚡ **High Performance**: Optimized for 60+ FPS detection without video preview overhead.
+-🎛️ **Configurable Settings**: Adjustable detection threshold, aim smoothing, and mouse sensitivity.
+-🔧 **Modular Architecture**: Clean separation between detection logic, UI components, and main application.
+-🖱️ **Precise Targeting**: Advanced aiming algorithms with smoothing and sensitivity controls.
+-📊 **Live Monitoring**: Real-time FPS, shot count, and target detection statistics.
+-🛡️ **Thread-Safe Design**: Robust error handling and thread-safe operations for stability.
+-🎯 **Enemy-Focused**: Specialized targeting for enemy objects with distance-based prioritization.
 
 > **💡 Special Note**: This project features a **personally curated dataset** where every single image was manually collected, annotated, and preprocessed by hand. The training data was meticulously gathered image by image to ensure the highest quality and most accurate detection for the specific use case. This personal touch ensures superior model performance compared to generic datasets.
 
 ## 🎬 Demo & Screenshots
 
 **Demo 1**  
-[![Watch the demo]
 
 **Demo 2**  
-[![Watch the demo](https://img.shields.io/badge/▶-Play%20Demo%202-blue)](https://github.com/user-attachments/assets/YOUR_VIDEO_LINK_2)
+
+
+https://github.com/user-attachments/assets/c7cc489d-3bad-4930-b856-fb7c0edcfbb7
+
 
 **UI Screenshot**  
 <img src="https://github.com/user-attachments/assets/7afba2ae-a4ab-475a-9ede-debd6c73fe96" alt="UI image" width="599" height="530" />
@@ -189,3 +191,4 @@ SOFTWARE.
 ## ⚠️ Disclaimer
 
 This project is for educational and research purposes only. Users are responsible for ensuring compliance with applicable laws, game terms of service, and ethical guidelines. The developers are not responsible for any misuse of this software.
+
