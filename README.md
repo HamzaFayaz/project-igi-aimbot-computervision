@@ -6,16 +6,16 @@ YOLO v10 ByteTrack Tkinter OpenCV
 An advanced AI-powered aimbot system built with modular architecture for real-time object detection, intelligent tracking, and automated targeting. The project leverages YOLO v10 for high-performance object detection, ByteTrack for smooth multi-object tracking, and a professional GUI interface for seamless control and monitoring.
 
 ## What Makes It Special:
--🎯 **Real-Time Detection**: Ultra-fast YOLO v10 object detection with CUDA acceleration for maximum performance.
--🔄 **Intelligent Tracking**: ByteTrack algorithm provides smooth, consistent object tracking across frames.
--🎮 **Professional GUI**: Clean Tkinter interface with real-time controls and status monitoring.
--⚡ **High Performance**: Optimized for 60+ FPS detection without video preview overhead.
--🎛️ **Configurable Settings**: Adjustable detection threshold, aim smoothing, and mouse sensitivity.
--🔧 **Modular Architecture**: Clean separation between detection logic, UI components, and main application.
--🖱️ **Precise Targeting**: Advanced aiming algorithms with smoothing and sensitivity controls.
--📊 **Live Monitoring**: Real-time FPS, shot count, and target detection statistics.
--🛡️ **Thread-Safe Design**: Robust error handling and thread-safe operations for stability.
--🎯 **Enemy-Focused**: Specialized targeting for enemy objects with distance-based prioritization.
+- 🎯 **Real-Time Detection**: Ultra-fast YOLO v10 object detection with CUDA acceleration for maximum performance.
+- 🔄 **Intelligent Tracking**: ByteTrack algorithm provides smooth, consistent object tracking across frames.
+- 🎮 **Professional GUI**: Clean Tkinter interface with real-time controls and status monitoring.
+- ⚡ **High Performance**: Optimized for 60+ FPS detection without video preview overhead.
+- 🎛️ **Configurable Settings**: Adjustable detection threshold, aim smoothing, and mouse sensitivity.
+- 🔧 **Modular Architecture**: Clean separation between detection logic, UI components, and main application.
+- 🖱️ **Precise Targeting**: Advanced aiming algorithms with smoothing and sensitivity controls.
+- 📊 **Live Monitoring**: Real-time FPS, shot count, and target detection statistics.
+- 🛡️ **Thread-Safe Design**: Robust error handling and thread-safe operations for stability.
+- 🎯 **Enemy-Focused**: Specialized targeting for enemy objects with distance-based prioritization.
 
 > **💡 Special Note**: This project features a **personally curated dataset** where every single image was manually collected, annotated, and preprocessed by hand. The training data was meticulously gathered image by image to ensure the highest quality and most accurate detection for the specific use case. This personal touch ensures superior model performance compared to generic datasets.
 
@@ -25,41 +25,42 @@ An advanced AI-powered aimbot system built with modular architecture for real-ti
 
 **Demo 2**  
 
-
 https://github.com/user-attachments/assets/c7cc489d-3bad-4930-b856-fb7c0edcfbb7
 
 
 **UI Screenshot**  
+
+
 <img src="https://github.com/user-attachments/assets/7afba2ae-a4ab-475a-9ede-debd6c73fe96" alt="UI image" width="599" height="530" />
 
 
 
 ## 🚀 Key Features
 **Core Functionality**
-🧠 **AI-Powered Detection**: YOLO v10 neural network for real-time object detection with CUDA acceleration.
-📂 **Intelligent Tracking**: ByteTrack algorithm for consistent multi-object tracking across frames.
-🔎 **Smart Targeting**: Distance-based target prioritization with enemy-focused detection.
-🪄 **Modular Architecture**: Clean separation between detection logic, UI components, and main application.
-⚡ **High-Performance Processing**: 60+ FPS detection without video preview overhead.
-📊 **Real-time Monitoring**: Live FPS, shot count, and target detection statistics.
-🔌 **Seamless Integration**: Built-in support for win32api mouse control and screen capture.
+- 🧠 **AI-Powered Detection**: YOLO v10 neural network for real-time object detection with CUDA acceleration.
+- 📂 **Intelligent Tracking**: ByteTrack algorithm for consistent multi-object tracking across frames.
+- 🔎 **Smart Targeting**: Distance-based target prioritization with enemy-focused detection.
+- 🪄 **Modular Architecture**: Clean separation between detection logic, UI components, and main application.
+- ⚡ **High-Performance Processing**: 60+ FPS detection without video preview overhead.
+- 📊 **Real-time Monitoring**: Live FPS, shot count, and target detection statistics.
+- 🔌 **Seamless Integration**: Built-in support for win32api mouse control and screen capture.
 
 **GUI Features**
-🎨 **Professional Interface**: Modern Tkinter GUI with clean, intuitive design.
-📱 **Responsive Controls**: Real-time button states and status indicators.
-📂 **Live Statistics**: Real-time FPS, shot count, and target monitoring display.
-💬 **Status Updates**: Live detection status and target count information.
-🔄 **Dynamic Controls**: Toggle buttons for aim and target lock with visual feedback.
-🧩 **Settings Panel**: Sliders for detection threshold, aim smoothing, and mouse sensitivity.
+- 🎨 **Professional Interface**: Modern Tkinter GUI with clean, intuitive design.
+- 📱 **Responsive Controls**: Real-time button states and status indicators.
+- 📂 **Live Statistics**: Real-time FPS, shot count, and target monitoring display.
+- 💬 **Status Updates**: Live detection status and target count information.
+- 🔄 **Dynamic Controls**: Toggle buttons for aim and target lock with visual feedback.
+- 🧩 **Settings Panel**: Sliders for detection threshold, aim smoothing, and mouse sensitivity.
 
 **Detection Features**
-⚡ **YOLO v10 Engine**: State-of-the-art object detection with CUDA support.
-🪄 **ByteTrack Integration**: Advanced multi-object tracking for consistent target following.
-📂 **Screen Capture**: High-performance MSS-based screen grabbing.
-🧠 **Aimbot Logic**: Intelligent aiming algorithms with smoothing and sensitivity controls.
-🔄 **Timer-Based Processing**: Optimized detection loop for maximum performance.
-📜 **Error Handling**: Robust error management and recovery mechanisms.
-🐳 **Cross-Platform Ready**: Windows-optimized with professional deployment structure.
+- ⚡ **YOLO v10 Engine**: State-of-the-art object detection with CUDA support.
+- 🪄 **ByteTrack Integration**: Advanced multi-object tracking for consistent target following.
+- 📂 **Screen Capture**: High-performance MSS-based screen grabbing.
+- 🧠 **Aimbot Logic**: Intelligent aiming algorithms with smoothing and sensitivity controls.
+- 🔄 **Timer-Based Processing**: Optimized detection loop for maximum performance.
+- 📜 **Error Handling**: Robust error management and recovery mechanisms.
+- 🐳 **Cross-Platform Ready**: Windows-optimized with professional deployment structure.
 
 ## 🏗️ Architecture
 ```
@@ -163,32 +164,9 @@ Project IGI Game/
 - **Error Handling**: Robust error management and recovery
 - **Performance Monitoring**: Built-in FPS and statistics tracking
 
-## 📝 License
-MIT License
-
-Copyright (c) 2024 HamzaFayaz
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-**Author**: [HamzaFayaz](https://github.com/HamzaFayaz)
 
 ## ⚠️ Disclaimer
 
 This project is for educational and research purposes only. Users are responsible for ensuring compliance with applicable laws, game terms of service, and ethical guidelines. The developers are not responsible for any misuse of this software.
+
 
